@@ -1,0 +1,22 @@
+libs/classes "All project classes"
+libs/functions "All project functions"
+libs/languages "All languages files .JSON only Or google translate API with .js"
+libs/router "Express Router for angular/typescript dashboard using rest API"
+libs/server "Only for bot with '/events', '/commands' /db/index.js linked to db api"
+public/assets/img "Image file .JPG / JPEG / PNG only"
+public/assets/doc "Documentations for gitbook / github readme"
+public/assets/pdf "Organisations"
+public/css "css file"
+public/js "JavaScript file for html"
+test/ "Tested product"
+views/pages "All other pages"
+views/ "main pages"
+script/ "Shell Script / Maybe Python"
+public/assets/sounds "Dashboard sound animation / soundboard"
+config/ "Configuration file ONLY"
+
+nettBot.js: "Main Script file"
+
+Gestionnaire de module: yarn
+GFX: pas encore trouvé
+Web Designer: on va ce débrouiller :)
